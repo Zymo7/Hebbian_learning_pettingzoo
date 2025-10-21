@@ -1,0 +1,62 @@
+[
+    {
+        "run_id": "2025-10-13_11-42_d129",
+        "训练开始时间": "2025-10-13 11:31:58",
+        "训练结束时间": "2025-10-13 11:42:34",
+        "训练用时": "0:10:36",
+        "环境名称": "simple_tag_v3",
+        "渲染模式": "None",
+        "随机种子": null,
+        "使用可变随机种子": false,
+        "总回合数": 1500,
+        "config_file": "/home/zzm/Multi-agent-RL-master/MATD3_Continous/logs/log_td3_main/run_configs/config_2025-10-13_11-42_d129.json"
+    },
+    {
+        "run_id": "2025-10-14_10-33_a186",
+        "训练开始时间": "2025-10-14 09:51:44",
+        "训练结束时间": "2025-10-14 10:33:26",
+        "训练用时": "0:41:41",
+        "环境名称": "simple_tag_v3",
+        "渲染模式": "None",
+        "随机种子": null,
+        "使用可变随机种子": false,
+        "总回合数": 5000,
+        "config_file": "/home/zzm/Multi-agent-RL-master/MATD3_Continous/logs/log_td3_main/run_configs/config_2025-10-14_10-33_a186.json"
+    },
+    {
+        "run_id": "2025-10-14_16-21_3915",
+        "训练开始时间": "2025-10-14 11:24:01",
+        "训练结束时间": "2025-10-14 16:21:34",
+        "训练用时": "4:57:32",
+        "环境名称": "simple_tag_v3",
+        "渲染模式": "None",
+        "随机种子": null,
+        "使用可变随机种子": false,
+        "总回合数": 5000,
+        "config_file": "/home/zzm/Multi-agent-RL-master/MATD3_Continous/logs/log_td3_main/run_configs/config_2025-10-14_16-21_3915.json"
+    },
+    {
+        "run_id": "2025-10-15_14-32_5349",
+        "训练开始时间": "2025-10-15 14:15:34",
+        "训练结束时间": "2025-10-15 14:32:00",
+        "训练用时": "0:16:25",
+        "环境名称": "simple_tag_v3",
+        "渲染模式": "None",
+        "随机种子": null,
+        "使用可变随机种子": false,
+        "总回合数": 2000,
+        "config_file": "/home/zzm/Multi-agent-RL-master/MATD3_Continous/logs/log_td3_main/run_configs/config_2025-10-15_14-32_5349.json"
+    },
+    {
+        "run_id": "2025-10-16_17-36_2df1",
+        "训练开始时间": "2025-10-16 16:20:10",
+        "训练结束时间": "2025-10-16 17:36:36",
+        "训练用时": "1:16:26",
+        "环境名称": "simple_tag_v3",
+        "渲染模式": "None",
+        "随机种子": null,
+        "使用可变随机种子": false,
+        "总回合数": 10000,
+        "config_file": "/home/zzm/Multi-agent-RL-master/MATD3_Continous/logs/log_td3_main/run_configs/config_2025-10-16_17-36_2df1.json"
+    }
+]
